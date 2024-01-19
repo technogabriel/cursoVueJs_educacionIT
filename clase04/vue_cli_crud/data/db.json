@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Heladera",
+      "categoria": "Electro",
+      "precio": 123
+    },
+    {
+      "id": 2,
+      "nombre": "Microondas",
+      "categoria": "Electro",
+      "precio": 433
+    },
+    {
+      "id": 3,
+      "nombre": "Celular",
+      "categoria": "Electro",
+      "precio": 343
+    },
+    {
+      "id": 4,
+      "nombre": "Tablet",
+      "categoria": "Electro",
+      "precio": 543
+    },
+    {
+      "id": 5,
+      "nombre": "Televisor",
+      "categoria": "Electro",
+      "precio": 325
+    },
+    {
+      "id": 6,
+      "nombre": "TV",
+      "categoria": "Electro",
+      "precio": "213"
+    },
+    {
+      "id": 7,
+      "nombre": "CPU",
+      "categoria": "Electro",
+      "precio": "213"
+    },
+    {
+      "id": 8,
+      "nombre": "Impresora",
+      "categoria": "Electro",
+      "precio": "456"
+    }
+  ]
+}
